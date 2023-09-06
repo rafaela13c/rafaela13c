@@ -1,6 +1,6 @@
-## Bem vindo! Eu sou a Rafaela.
+<h1> Bem vindo! Eu sou a Rafaela.
 <img src="https://i.imgur.com/ATEHSYp.gif" width="30px"/>
-
+</h1>
 
 <div align="left">
   <a href="https://github.com/rafaela13c/">
