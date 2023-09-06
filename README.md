@@ -1,4 +1,5 @@
 ## Bem vindo! Eu sou a Rafaela.
+<img src="https://i.imgur.com/ATEHSYp.gif" width="30px"/>
 
 
 <div align="left">
