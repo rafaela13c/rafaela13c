@@ -30,24 +30,13 @@ Acredito que respeito e ética são fundamentos para qualquer ambiente profissio
   <a href="https://github.com/rafaela13c/HTML-CSS"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="https://github.com/rafaela13c/HTML-CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href="https://github.com/rafaela13c/C"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
   <a href="https://github.com/rafaela13c/Canva"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"></a>
 </p>
 
 ---
 
-### 📊 Minhas estatísticas no GitHub
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rafaela13c&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela13c&layout=compact&langs_count=7&theme=panda"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaela13c&theme=panda" height="165em"/>
-</div>
-
----
 
 <p align="center">
   💬 Sinta-se à vontade para se conectar comigo no <a href="https://www.linkedin.com/in/rafaela-cas1308/" target="_blank">LinkedIn</a>!
