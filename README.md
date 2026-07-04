@@ -16,7 +16,13 @@
 
 ### 👩‍💻 Sobre mim
 
-Sou estudante de tecnologia na **Fatec Jales - Prof. José Camargo** e atuo como **Guarda Civil Municipal de Jales/SP**.
+🚔 Guarda Civil Municipal
+🎓 Estudante de Segurança Pública
+💻 Estudante de Sistemas para Internet
+
+Entre códigos e ocorrências, encontrei duas áreas completamente diferentes que têm algo em comum: resolver problemas.
+
+Este GitHub é onde registro minha evolução, compartilho projetos e transformo conhecimento em prática.
 
 Acredito que respeito e ética são fundamentos para qualquer ambiente profissional. Prezo por uma atmosfera estável e agradável, com boa comunicação e trabalho em equipe, buscando o sucesso em cada tarefa realizada.
 
